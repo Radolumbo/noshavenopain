@@ -21,6 +21,8 @@ body {background-color:#000000;}
 div {color:#FFFFFF;}
 .webgl-content .actual-title {font-size:2vw;}
 
+.instruction {font-size:1vw;color:#AAAAAA;}
+
 body {
   -webkit-user-select: none;
      -moz-user-select: -moz-none;
